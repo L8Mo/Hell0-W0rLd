@@ -1,2 +1,2 @@
 # Hell0-W0rLd
-Quick Introduction From L8Mo
+Greetings Fellow Coders and future script kiddies, i am writing to you as this is my very accomplished html practice and i wanted to keep learning and excelling my knowledge on how to code and program effiecnetly without using guides and being able to fully flexible in picking up a lot of skills that can potentially push me up in the ladder of the tech industry, i want to thank the community of coders, developers and the root of github for allowing me to explore the ins and out of programming and teaching me how to keep my code clean. however i am a 20 year old student that is studying Web Development (front End) first and then potentially moving on to a bit more intermediate lessons and languages.
